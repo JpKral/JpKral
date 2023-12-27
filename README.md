@@ -6,8 +6,8 @@ Besides my career roadmap, I enjoy working with lua to build game scripts, pytho
 
 I currently live in Colorado and love to hike a lot. I love the outdoors and to experience the beauty of nature and its colder snowy environments. 
 
-If you wish to contact me for any reason, like collaboration or needing help, please feel free to get in contact with me :) I enjoy working with people, regardless of where they are in career or knowledge.
-There's always something new for me to learn from other people, so I see every interaction a opportunity for benefit.
+If you wish to contact me for any reason, like collaboration or needing help, please feel free to get in contact with me :) I enjoy working with people, regardless of their background.
+There's always something new for me to learn about from other people, so I see every interaction a greater opportunity.
 
 Thank you,
 Jeremy Kral
